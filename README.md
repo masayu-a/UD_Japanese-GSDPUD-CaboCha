@@ -1,6 +1,8 @@
 # UD-Japanese-GSDPUD-CaboCha
 
-## ファイル形式- #! DOC 行 ＜文番号＞
+## ファイル形式
+
+- #! DOC 行 ＜文番号＞
 - #! DOCID 行
   - <ID> 文番号
   - <newdoc_id> 元の newdoc id (PUD のみ)
@@ -29,47 +31,47 @@
 
   - 2列目：短単位形態論情報
 
-  - (0):  pos1
-  - (1):  pos2
-  - (2):  pos3
-  - (3):  pos4
-  - (4):  cType
-  - (5):  cForm
-  - (6):  lForm
-  - (7):  lemma
-  - (8):  orth
-  - (9):  pron
-  - (10): orthBase
-  - (11): pronBase
-  - (12): goshu
-  - (13): iType
-  - (14): iForm
-  - (15): fType
-  - (16): fForm
-  - (17): iConType
-  - (18): fConType
-  - (19): type
-  - (20): kana
-  - (21): kanaBase
-  - (22): form
-  - (23): formBase
-  - (24): aType
-  - (25): aConType
-  - (26): aModType
-  - (27): lid
-  - (28): lemma_id
+    - (0):  pos1
+    - (1):  pos2
+    - (2):  pos3
+    - (3):  pos4
+    - (4):  cType
+    - (5):  cForm
+    - (6):  lForm
+    - (7):  lemma
+    - (8):  orth
+    - (9):  pron
+    - (10): orthBase
+    - (11): pronBase
+    - (12): goshu
+    - (13): iType
+    - (14): iForm
+    - (15): fType
+    - (16): fForm
+    - (17): iConType
+    - (18): fConType
+    - (19): type
+    - (20): kana
+    - (21): kanaBase
+    - (22): form
+    - (23): formBase
+    - (24): aType
+    - (25): aConType
+    - (26): aModType
+    - (27): lid
+    - (28): lemma_id
 
  - 3列目：長単位書字形出現形
 
  - 4列目：長単位形態論情報
 
-  - (0):  l_pos1
-  - (1):  l_pos2
-  - (2):  l_pos3
-  - (3):  l_pos4
-  - (4):  l_cType
-  - (5):  l_cForm
-  - (6):  l_reading
-  - (7):  l_lemma
+   - (0):  l_pos1
+   - (1):  l_pos2
+   - (2):  l_pos3
+   - (3):  l_pos4
+   - (4):  l_cType
+   - (5):  l_cForm
+   - (6):  l_reading
+   - (7):  l_lemma
 
  - 5列目：文節境界情報
