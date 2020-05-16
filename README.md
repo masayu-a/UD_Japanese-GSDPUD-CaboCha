@@ -1,6 +1,12 @@
 # UD-Japanese-GSDPUD-CaboCha
 
-## ファイル形式
+## Description
+
+[UD Japanese GSD](https://github.com/UniversalDependencies/UD_Japanese-GSD/tree/master) および [UD Japanese PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD/tree/master) の変換前 CaboCha ファイル
+
+## Features
+
+基本的には CaboCha 形式に長単位形態論情報・文節境界情報を追加したものです。
 
 - #! DOC 行 ＜文番号＞
 - #! DOCID 行
@@ -75,3 +81,19 @@
     - (7):  l_lemma
 
   - 5列目：文節境界情報
+
+## Authors
+
+- 浅原正幸 (国立国語研究所)
+- 松田寛 (Megagon Labs)
+- 若狭絢 (国立国語研究所)
+- 山下華代
+- 大村舞 (国立国語研究所)
+
+## Reference
+
+松田 寛・若狭 絢・山下 華代・大村 舞・浅原 正幸, (2020), [「UD Japanese GSD の再整備と固有表現情報付与」](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-34.pdf), 言語処理学会第26回年次大会, p.133-136.
+
+## License
+
+Creative Commons BY-SA 3.0
