@@ -1,5 +1,5 @@
 # UD-Japanese-GSDPUD-CaboCha
-** Moved to https://github.com/udjapanese/UD-Japanese-GSDPUD-Cabocha ** 
+**Moved to https://github.com/udjapanese/UD-Japanese-GSDPUD-Cabocha** 
 ## Description
 
 [UD Japanese GSD](https://github.com/UniversalDependencies/UD_Japanese-GSD/tree/master) および [UD Japanese PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD/tree/master) の変換前 CaboCha ファイル
